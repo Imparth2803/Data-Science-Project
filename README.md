@@ -7,7 +7,7 @@ This project compares the performance of **Convolutional Neural Networks (CNNs)*
 - **ViT (PyTorch)**: Patch-based transformer encoder implemented from scratch.
 
 ## Dataset
-- **ISIC 2019 Challenge Dataset
+- ISIC 2019 Challenge Dataset
 - Data sourced from: BCN_20000, HAM10000, MSK.
 - Includes metadata on age, gender, anatomical site.
 
